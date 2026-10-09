@@ -1,0 +1,10 @@
+# tokens and api keys 
+.env
+
+#Database 
+opps.db
+
+#virtual environment 
+venv/
+
+__pycache__/
